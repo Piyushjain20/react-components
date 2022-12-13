@@ -1,0 +1,7 @@
+.card-container {
+  max-width: 317px;
+  max-height: 780px;
+  background: #1a1b21;
+  border-radius: 10px 10px 10px 10px;
+  overflow: hidden;
+}

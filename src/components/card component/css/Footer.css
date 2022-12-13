@@ -1,0 +1,15 @@
+footer {
+  background-color: #161619;
+  border-radius: 0px 0px 10px 10px;
+  display: flex;
+  justify-content: center;
+  height: 64px;
+  align-items: center;
+  box-sizing: border-box;
+}
+footer .icon {
+  width: 25px;
+  height: 100%;
+  color: #918e9b;
+  margin: auto 12.5px;
+}
