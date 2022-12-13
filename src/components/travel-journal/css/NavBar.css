@@ -1,0 +1,24 @@
+nav {
+  height: 55px;
+  display: flex;
+  background-color: #f55a5a;
+  color: white;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+}
+nav > h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.4608px;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+  margin-left: 7px;
+  /* padding: auto; */
+}
+nav > .logo {
+  width: 24px;
+  height: 24px;
+  /* margin: auto; */
+}

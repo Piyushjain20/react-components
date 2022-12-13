@@ -1,0 +1,56 @@
+.card {
+  max-width: 417px;
+  min-height: 168px;
+  display: flex;
+  margin: 18px auto;
+  font-family: "Inter", sans-serif;
+}
+hr {
+  max-width: 417px;
+  border: 1px solid #f5f5f5;
+}
+.card > img {
+  width: 125px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-right: 19px;
+}
+.card-body > p {
+  margin: 8px auto;
+}
+.card-body .pin {
+  width: 7px;
+  height: 9.55px;
+  color: #f55a5a;
+}
+.card-body .location {
+  margin-left: 4px;
+  font-size: 10.24px;
+  letter-spacing: 0.17em;
+  color: #2b283a;
+}
+.card-body a {
+  margin-left: 12px;
+  font-size: 10.24px;
+  color: #918e9b;
+}
+.card-body > h2 {
+  margin: 0%;
+  margin-bottom: 14px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  color: #2b283a;
+}
+.card-body > .period {
+  font-weight: 700;
+  font-size: 10.24px;
+  line-height: 12px;
+  color: #2b283a;
+}
+.card-body > .info {
+  font-size: 10.24px;
+  line-height: 15px;
+  color: #2b283a;
+}
