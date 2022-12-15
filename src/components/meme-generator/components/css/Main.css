@@ -1,0 +1,35 @@
+form {
+  max-width: 477px;
+  padding: 36px;
+}
+.input-holder {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.input-holder > input {
+  width: 48%;
+  max-width: 230px;
+  height: 35px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: 1px solid #d5d4d8;
+  text-indent: 5px;
+}
+.input-holder input:first-child {
+  margin-right: 17px;
+}
+.submit-btn {
+  width: 100%;
+  height: 40px;
+  background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+}
